@@ -2,7 +2,6 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers customer support questions based on your own knowledge base of PDF documents and website content.
 
-![Chatbot Screenshot](https://via.placeholder.com/800x450?text=RAG+Chatbot+Screenshot)
 
  Features
 
